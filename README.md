@@ -6,7 +6,7 @@
 
 - 邮箱：alex@example.com（请替换为你自己的邮箱）
 - App Store 留言区反馈
-- GitHub Issues：https://github.com/你的用户名/modays-support/issues
+- GitHub Issues：https://github.com/Yangfan999/modays-support/issues
 
 ---
 
